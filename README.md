@@ -1,6 +1,9 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/68877880?v=4" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px; object-fit: cover;">
+  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden;">
+    <img src="https://avatars.githubusercontent.com/u/68877880?v=4" alt="Profile Picture" style="width: 100%; height: auto;">
+  </div>
 </div>
+
 
 
 # Hello, I'm Waqar Amin 👋
