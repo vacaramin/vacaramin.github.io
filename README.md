@@ -1,3 +1,4 @@
+![Profile Picture](https://avatars.githubusercontent.com/u/68877880?v=4))
 # Hello, I'm Waqar Amin 👋
 
 ## Aspiring Golang Backend Developer | Full Stack Enthusiast | Cutting-Edge Technology Explorer
