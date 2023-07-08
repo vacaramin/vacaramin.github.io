@@ -1,7 +1,5 @@
 <div align="center">
-  <div style="width: 200px; height: 200px; border-radius: 50%; overflow: hidden;">
-    <img src="https://avatars.githubusercontent.com/u/68877880?v=4" alt="Profile Picture" style="width: 100%; height: auto;">
-  </div>
+  <img src="https://avatars.githubusercontent.com/u/68877880?v=4" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px;">
 </div>
 
 
