@@ -1,6 +1,7 @@
-<div style="display: flex; justify-content: center;">
+<div align="center">
   <img src="https://avatars.githubusercontent.com/u/68877880?v=4" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px;">
 </div>
+
 # Hello, I'm Waqar Amin 👋
 
 ## Aspiring Golang Backend Developer | Full Stack Enthusiast | Cutting-Edge Technology Explorer
