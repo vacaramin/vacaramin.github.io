@@ -1,5 +1,3 @@
-[![Api giphy vacaramin](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vacaramin.me)
-
 <div align="center">
   <img src="https://avatars.githubusercontent.com/u/68877880?v=4" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px;">
 </div>
@@ -204,6 +202,8 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 - **Frontend:** React.js, Vue.js, HTML, CSS, JavaScript, Bootstrap
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
 - **Other Skills:** Git, RESTful APIs, Agile Methodologies, Docker, Figma, Linux
+
+[![Api giphy vacaramin](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vacaramin.me)
 
 ## Professional Experience 💼
 
