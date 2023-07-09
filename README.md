@@ -1,5 +1,9 @@
 [![Api giphy vacaramin](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vacaramin.me)
 
+<div align="center">
+  <img src="https://avatars.githubusercontent.com/u/68877880?v=4" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px;">
+</div>
+
 <h1 align="center">Hello 👋, I'm Waqar Amin</h1>
 
 ## Aspiring Golang Backend Developer | Full Stack Enthusiast | Cutting-Edge Technology Explorer
