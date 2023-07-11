@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://avatars.githubusercontent.com/u/68877880?v=4" alt="Profile Picture" style="border-radius: 50%; width: 200px; height: 200px;">
-</div>
+[![Api giphy vacaramin](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vacaramin.me)
 
 <h1 align="center">Hello 👋, I'm Waqar Amin</h1>
 
@@ -198,15 +196,45 @@ Welcome to my GitHub profile! I'm a passionate full stack developer with a keen 
 </p>
 
 - **Languages:** Golang, Node.js, React.js, C/C++, Python, C# Java, TypeScript, JavaScript
-- **Backend:** Golang, Gin Framework, Node.js, Websockets, GraphQL
+- **Backend:** Golang, Gin Framework, Node.js, Express, Websockets, GraphQL
 - **Frontend:** React.js, Vue.js, HTML, CSS, JavaScript, Bootstrap
 - **Databases:** MySQL, PostgreSQL, MongoDB, Oracle
 - **Other Skills:** Git, RESTful APIs, Agile Methodologies, Docker, Figma, Linux
 
-[![Api giphy vacaramin](https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif)](https://vacaramin.me)
-
 ## Professional Experience 💼
+<p align="left">
+  <a href="https://techscape.pk" target="_blank" >
+    <img
+      src="https://shop.techscape.pk/wp-content/uploads/2023/03/TechScape-Color-logo.png"
+      alt="Techscape"
+      height="80"
+    />
+  </a>
 
+  <a href="https://fiverr.com/vacaramin86" target="_blank" >
+    <img
+      src="https://cdn-images-1.medium.com/v2/resize:fit:1200/1*Xa26ULIpZTTP1hN_ReUXVQ.png"
+      alt="Fiverr"
+      height="80"
+    />
+  </a>
+  <a href="https://www.lumaseeds.com" target="_blank">
+    <img
+      src="https://s3-eu-west-1.amazonaws.com/tpd/logos/62b387f6789d489dfde554ea/0x0.png"
+      alt="Luma Seeds"
+      style="width: 80px; height: 80px; object-fit: none; clip-path: inset(163px 163px 163px 163px);"
+    />
+  </a>
+
+
+  <a href="https://proailab.com" target="_blank" >
+    <img
+      src="https://proailab.com/wp-content/uploads/2023/02/proailab-light-e1677569914511.png"
+      alt="Luma Seeds"
+      height="80"
+    />
+  </a>
+  </p>
 I have gained valuable experience working on various projects, and here are a few highlights:
 
 - Developed robust and scalable backend systems using Golang and the Gin Framework, leveraging the power of websockets.
@@ -216,7 +244,9 @@ I have gained valuable experience working on various projects, and here are a fe
 - Specialize in building interactive bots for platforms like Discord and Slack, integrating them with various APIs.
 - Experienced in creating real-time applications using websockets for seamless and instant communication.
 
-## Goals 🌱
+## <div style="display: flex;"> <span align="left"> <a href="https://vacaramin.me" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/215px-Go_Logo_Blue.svg.png" alt="Go lang developer" height="17.9" /></a></span><span>ALS 🌱</span></div>
+
+
 
 My journey as a developer is constantly evolving, and here are some of my goals:
 
@@ -264,6 +294,7 @@ I'm always excited to connect with fellow developers and tech enthusiasts. Feel 
     /></a>
   </p>
   
+
 
 Thank you for visiting my profile. Let's create something awesome together!! 🚀
 
